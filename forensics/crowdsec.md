@@ -10,8 +10,9 @@ CrowdSec is a free, modern & collaborative behavior detection engine, coupled wi
 
 ### Categories
 
-* Data forensics
+* Network Defense
 * Incident Response
+* Data forensics
   
 ### Black Hat sessions
 
@@ -27,6 +28,7 @@ https://github.com/crowdsecurity/crowdsec
 * AlteredCoder https://github.com/AlteredCoder
 * Sabban https://github.com/sabban
 * He2ss https://github.com/he2ss
+* Blotus github.com/blotus 
 
 ### Social Media
 * [Twitter](https://twitter.com/Crowd_Security)
